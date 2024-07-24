@@ -1,0 +1,33 @@
+@charset "UTF-8";
+form [type=submit]{
+  background-color: #00ff40;
+  height: 30px;
+}
+
+form{
+	color:#400040;
+	font-family:serif;
+	border: 1px inset;
+	margin-top:15.5%;
+	margin-left:38.5%;
+	margin-right:38.5%;
+	text-align: center;
+	padding: 20px;
+	
+	font-weight: 23px;
+}
+p {
+	color: #00e100;
+	position:relative;
+	margin-left:47.5%;
+	margin-right:38.5%;
+	top:200px;
+	font-family: fantasy;
+	font-weight: 46px;
+	font-size: larger;
+    }
+/* body {
+	background-image: url("../image/istockphoto-185100669-1024x1024.jpg");
+	background-size:1680px;
+	background-repeat: no-repeat;
+} */

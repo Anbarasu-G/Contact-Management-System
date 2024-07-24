@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.border{
+	border: 1px outset;
+	background-color: gray;
+	padding: 5px;
+}
+.border span{
+    color: white;
+   font-size: medium;
+}
+.border button{
+	display:block;
+	float: right;
+}

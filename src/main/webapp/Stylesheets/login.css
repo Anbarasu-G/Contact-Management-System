@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+p{
+    /* margin-top:13.5%; */
+    position:relative;
+	margin-left:41.5%;
+	margin-right:38.5%;
+	color: #dd0000;
+	font-family: fantasy;
+	font-weight: 19px;
+	top:200px;
+	
+}
+/* body {
+	background-image: url("../image/Montmartre, Paris.jfif");
+	background-size:1840px ;
+	 opacity:0.8;	
+} */
+form [type=submit]{
+	background-color:#00ff00;
+	height: 30px;
+	color: white;
+}
+
+form{
+	border: 1px inset;
+	margin-top:15.5%;
+	margin-left:38.5%;
+	margin-right:38.5%;
+	text-align: center;
+	padding: 20px;
+}
+
+form h1{
+	color: #008080;
+}

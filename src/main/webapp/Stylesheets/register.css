@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1{
+	color:#004080;
+	text-shadow:gray;
+	font-size:xx-large;	
+}
+form [type=submit]{
+  background-color: #00ff40;
+   color:white;
+  height: 30px;
+}
+form{
+	border: 1px outset;
+	margin-top:15.5%;	
+	margin-left: 35.5%;
+	margin-right: 38.5%;
+	padding: 20px;
+	text-align:center ;
+
+}
+/* body {
+	background-image: url("../image/istockphoto-1164161958-1024x1024.jpg");
+	background-size :1700px;
+	background-repeat: no-repeat;
+} */

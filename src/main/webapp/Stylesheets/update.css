@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+#success{
+	color: #008000;
+	position: relative;
+	top: 190px;
+	margin-left: 43.5%;
+	font-family: serif;
+	font:x-large; 
+	font-size: large;
+}
+#failure{
+	color:red;
+	position: relative;
+	top: 190px;
+	margin-left: 43.5%;
+	font-family: serif;
+	font:x-large; 
+	font-size: large;
+}
+form {
+	border: 1px inset;
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+	margin-top: 200px;
+	padding: 20px;
+	text-align: center;
+}
+ form h1{
+	color: teal;
+	}
+ form [type=submit]{
+	color: white;
+	background-color: #00ff40;
+}
+/* body{
+	background-image: url("../image/bernard-hermant-_THpp4Hs8LU-unsplash.jpg");
+	background-size: cover;
+} */

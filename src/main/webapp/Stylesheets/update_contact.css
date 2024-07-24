@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+
+ form{
+	margin-left: 38.5%;
+	margin-right: 40.5%;
+	border: 1px inset;
+	text-align: center;
+	margin-top:15.5%;
+}
+
+form [type=submit]{
+	background-color:#00ff00;
+	height: 30px;
+	color: white;
+}
+
+
+/* body {
+	background-image:url("../image/istockphoto-2148099877-1024x1024.jpg"); 
+	background-size: 1300px;
+} */
+

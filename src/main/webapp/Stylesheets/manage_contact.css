@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.button {
+	margin-top: 15.5%;
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+	padding:10px;
+	
+	
+	border: 1px inset;
+	text-align: center;
+	h1{
+	color:green;
+	}
+}
+/* body {
+	background-image: url("../image/istockphoto-1284754354-1024x1024.jpg");
+background-size: 1700px;
+background-repeat: no-repeat;	
+} */

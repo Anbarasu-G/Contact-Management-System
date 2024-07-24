@@ -1,0 +1,23 @@
+@charset "UTF-8";
+#username{
+	color: white;
+	font-size: 23px;
+}
+#index{
+	margin-top:15.5%;	
+	margin-left: 35.5%;
+	margin-right: 38.5%;
+	border: 1px;
+	border-style: inset; 
+	padding: 10px;
+}
+#welcome{
+	color:#004080;
+	text-shadow:gray;
+	font-size:xx-large;	
+	margin-left:32.5%;
+}
+/* body {
+	 background-image: url("../image/pexels-pixabay-302769.jpg"); 
+	background-size:cover;	
+} */

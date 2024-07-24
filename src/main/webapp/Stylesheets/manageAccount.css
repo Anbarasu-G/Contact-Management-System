@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+
+
+ .failure {
+	color:red;
+	position: relative;
+	top: 200px;
+	margin-left: 45.5%;
+	margin-right: 38.5%;
+	font-family: fantasy;;
+	font-size: 20px;
+	font-weight: 30px;
+}
+#update {
+	margin-top: 18.5%;
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+	border: 1px inset;
+	text-align: center;
+	padding: 10px;
+}
+
+
+
+#success {
+	color: green;
+	position: relative;
+	top: 200px;
+	margin-left: 38.5%;
+	margin-right: 38.5%;
+}
+
+
+
+/* body {
+	background-image: url("../image/pexels-pixabay-262367.jpg");
+	background-size: 1400px;
+} */
